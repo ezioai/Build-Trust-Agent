@@ -46,7 +46,7 @@ Sample policies are provided in `company_policy_meridian.md` and `client_policy_
 
 ## Deliverable
 
-A 2-minute demo showing your use case, the agent taking in a report, and one moment where the evidence changed what the agent did.
+A 1 minute demo showing your use case, the agent taking in a report, and one moment where the evidence changed what the agent did.
 
 ## Scoring criteria
 
