@@ -29,7 +29,7 @@ Each report contains:
 
 The report is evidence, not the final word. Your agent can question it: only some claims are checked, some can't be verified, and sources vary in quality.
 
-## Sample use case (for inspiration only): Data Privacy
+## Sample use case: Data Privacy
 
 Your company takes on a client project and needs a data privacy policy that answers two questions:
 
