@@ -29,7 +29,7 @@ Each report contains:
 
 The report is evidence, not the final word. Your agent can question it: only some claims are checked, some can't be verified, and sources vary in quality.
 
-## Sample use case: Data Privacy
+## Sample use case (for inspiration only): Data Privacy
 
 Your company takes on a client project and needs a data privacy policy that answers two questions:
 
@@ -46,7 +46,7 @@ Sample policies are provided in `company_policy_meridian.md` and `client_policy_
 
 ## Deliverable
 
-A 1 minute demo showing your use case, the agent taking in a report, and one moment where the evidence changed what the agent did.
+A 2-minute demo showing your use case, the agent taking in a report, and one moment where the evidence changed what the agent did.
 
 ## Scoring criteria
 
